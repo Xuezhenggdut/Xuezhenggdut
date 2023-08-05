@@ -7,7 +7,9 @@ This is Zheng Xue's personal [homepage](https://xuezhenggdut.github.io//).
 I am currently pursing the Ph.D degree in information and communication engineering at Guangdong University of Technology, Guangzhou, China. 
 My research interests include vehicular networks, edge computing and cooperative perception.
 
-![Xuezhenggdut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuezhenggdut&show_icons=true&theme=radical)
+![Xuezhenggdut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuezhenggdut&show_icons=true&theme=radical) 
+
+<img src="https://stats.justsong.cn/api/csdn?id=weixin_43835470&theme=dark"> 
 
 [![Xuezhenggdut's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xuezhenggdut&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

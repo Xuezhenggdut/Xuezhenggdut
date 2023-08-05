@@ -11,7 +11,6 @@ My research interests include vehicular networks, edge computing and cooperative
 
 <img src="https://stats.justsong.cn/api/csdn?id=weixin_43835470&theme=dark"> 
 
-[![Xuezhenggdut's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xuezhenggdut&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Xuezhenggdut/Xuezhenggdut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

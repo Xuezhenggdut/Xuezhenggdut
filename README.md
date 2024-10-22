@@ -4,7 +4,7 @@ Hi! You are the ![Visitor Count](https://profile-counter.glitch.me/Xuezhenggdut/
 ======
 This is Zheng Xue's personal [homepage](https://xuezhenggdut.github.io//).
 
-I am currently a Postdoctoral Research, working in cooperation with [Prof. Yi Fang](https://yzw.gdut.edu.cn/info/1088/1333.htm) and [Prof. Guojun Han](https://teacher.gdut.edu.cn/hanguojun) at Guangdong University of Technology, Guangzhou, China. I received the Ph.D. degree from the School of Information Engineering at Guangdong University of Technology (GDUT), Guangzhou, China, in 2024. My research interests include vehicular networks, edge computing and cooperative perception.
+I am currently a Postdoctoral Researcher, working in cooperation with [Prof. Yi Fang](https://yzw.gdut.edu.cn/info/1088/1333.htm) and [Prof. Guojun Han](https://teacher.gdut.edu.cn/hanguojun) at Guangdong University of Technology, Guangzhou, China. I received the Ph.D. degree from the School of Information Engineering at Guangdong University of Technology (GDUT), Guangzhou, China, in 2024. My research interests include vehicular networks, edge computing and cooperative perception.
 
 ![Xuezhenggdut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuezhenggdut&show_icons=true&theme=radical) 
 
